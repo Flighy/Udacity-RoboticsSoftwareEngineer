@@ -1,0 +1,2 @@
+1. Format of sdf for gazebo world script.
+	http://sdformat.org/spec?ver=1.6&elem=world
